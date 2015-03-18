@@ -1,7 +1,6 @@
 from github import Github
 # import numpy as np
 
-ACCESS_TOKEN = 'a06271f35dbcf494b65372db76618168d9010b3b'
 
 USER = 'maniteja123'
 REPO = 'scipy'
